@@ -3,7 +3,7 @@
 ## Overview
 
 ```
-UI module for voice assistant and this can be inegrated with any frontend module.
+UI microfronted for voice assistant and this can be inegrated with any frontend module.
 ```
 ---
 
