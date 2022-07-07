@@ -1,6 +1,4 @@
-#!/bin/sh
-. "$(dirname "$0")/_/husky.sh"
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
 
-set -e  # die on error
-
-yarn run tsc --noEmit && yarn lint-staged && yarn test
+yarn run tsc --noEmit && yarn test
