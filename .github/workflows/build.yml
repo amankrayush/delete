@@ -1,4 +1,4 @@
-name: sahaya-frontend Build
+name: Build and Publish
 on:
   push:
     branches: 
